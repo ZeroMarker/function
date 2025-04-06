@@ -86,3 +86,7 @@ Mkfile.old
 dkms.conf
 
 *.beam
+
+# lisp
+*.lib
+*.fas
